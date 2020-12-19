@@ -1,4 +1,4 @@
-name: 'EUserv Auto Extend proxy'
+name: 'EUserv Auto Extend proxy new'
 
 on:
   workflow_dispatch:
