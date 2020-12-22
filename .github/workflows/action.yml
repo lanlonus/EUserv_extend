@@ -1,4 +1,4 @@
-name: 'EUserv Auto Extend proxy'
+name: 'EUserv Auto Extend proxy lonuslan'
 
 on:
   workflow_dispatch:
